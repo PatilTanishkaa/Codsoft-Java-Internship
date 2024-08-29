@@ -1,4 +1,4 @@
-# Codsoft-Java-Internship
+# Codsoft-Java-Internship-Task 1
 import java.util.Random;
 import java.util.Scanner;
 public class GuessTheNumberGame {
